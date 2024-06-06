@@ -1,0 +1,28 @@
+pong 2d ref
+
+cannonball
+https://opengameart.org/content/cannonball
+
+characters
+https://opengameart.org/content/knight-of-finlandia
+
+environtment
+https://opengameart.org/content/toens-medieval-strategy-sprite-pack-v10-16x16
+
+sfx
+https://opengameart.org/content/metal-interactions
+https://opengameart.org/content/metal-sounds
+https://opengameart.org/content/metal-and-wood-impact-sound-effects
+https://opengameart.org/content/wood-and-metal-sound-effects-volume-2
+https://opengameart.org/content/metal-hit
+https://opengameart.org/content/trumpet-fanfare
+
+boss bgm
+https://opengameart.org/content/boss-battle-6-metal
+
+bgm
+https://opengameart.org/content/medieval-town
+https://youtu.be/UhVSnxZzjos?si=YP7ln7I2uYp7MGs4
+
+
+
