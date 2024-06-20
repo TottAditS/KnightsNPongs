@@ -9,11 +9,13 @@ public class BallScript : MonoBehaviour
     public Rigidbody2D rb;
     public float speed;
     private float normalspeed;
+    private AudioSource efek;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         Invoke("Startball", 3);
         normalspeed = speed;
+        efek = GetComponent<AudioSource>();
     }
     void Startball()
     {
@@ -50,6 +52,13 @@ public class BallScript : MonoBehaviour
             speed = speed + 1;
             wallCollisionCount = 0;
             rb.velocity = new Vector2(rb.velocity.x, rb.velocity.y).normalized * speed;
+            efek.Play();
+        }
+
+        if (coll.gameObject.tag == "Player")
+        {
+            wallCollisionCount = 0;
+            efek.Play();
         }
 
         else
