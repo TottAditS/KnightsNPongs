@@ -1,6 +1,6 @@
 <h1>Knights N Pong</h1>
 
-# About Game
+<h2>About Game</h2>
 Knights N Pong it's a minigame i created using Unity Engine, I'm currently still new to Unity Engine and this is my second project after "MyFirstProject". Just a simple game based on Pong. This game is about two knights having fun passing ball each other.
 
 # Gameplay
