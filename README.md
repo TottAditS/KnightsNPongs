@@ -22,5 +22,6 @@ Down arrow - Down
 - You dont have to download all of the repository, if you just want to play, just download the folder named "Builded"
 - Open Folder named "Builded", and open the .exe file to run the game
 
+<p></p>
 If you encounter problem, feel free to contact me
 Thank you
