@@ -1,5 +1,7 @@
 <h1>Knights N Pong</h1>
 
+![knightpong footage](https://github.com/TottAditS/KnightsNPongs/assets/154248410/f5e0cf19-c500-4529-b7ee-3562d9fd7faf)
+
 <h3>About Game</h3>
 Knights N Pong it's a minigame i created using Unity Engine, I'm currently still new to Unity Engine and this is my second project after "MyFirstProject". Just a simple game based on Pong. This game is about two knights having fun passing ball each other.
 
