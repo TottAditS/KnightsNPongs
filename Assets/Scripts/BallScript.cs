@@ -17,22 +17,17 @@ public class BallScript : MonoBehaviour
         normalspeed = speed;
         efek = GetComponent<AudioSource>();
     }
-    void StartBall()
+    void Startball()
     {
-        // Generate a random angle between -45 and 45 degrees
         float randomAngle = Random.Range(-45f, 45f);
 
-        // Determine if the ball should go to the left or right
         float directionMultiplier = Random.Range(0, 2) == 0 ? -1f : 1f;
 
-        // Convert the angle to radians
         float angleInRadians = randomAngle * Mathf.Deg2Rad;
 
-        // Calculate direction based on angle and multiplier (left or right)
         float xDirection = Mathf.Cos(angleInRadians) * directionMultiplier;
         float yDirection = Mathf.Sin(angleInRadians);
 
-        // Set the velocity of the rigidbody using a normalized vector
         rb.velocity = new Vector2(xDirection, yDirection).normalized * speed;
     }
 
