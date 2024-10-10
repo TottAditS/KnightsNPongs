@@ -4,24 +4,24 @@
 </p>
 
 ## About Project
-
+This project was purposed to complete Game Programming Assignment, and it has not continued since.
 <br>
 
 ## Project Info
-Knights N Pong it's a minigame i created using Unity Engine, I'm currently still new to Unity Engine and this is my second project after "MyFirstProject". Just a simple game based on Pong. This game is about two knights having fun passing ball each other.
+Knights N Pong is a Unity Engine minigame where two knights face off in a fun twist on the classic Pong concept, passing a ball between them in a medieval-themed setting. As a solo programmer and designer, I developed this game in 10 days to explore basic game mechanics and lay the foundation for more complex projects in the future.
 <br>
 
-## Meet The Team
+## Meet Me
+- Totti (Game Programmer & Game Designer)
 
 <br>
 
 ## Download Game
-
+<p width="500px" align="center"><a href="https://tottadits.itch.io/knightnpong">KnightNPong Itch Page</p>
 <br>
 
-## Video Gameplay
-<img src="">
-View Full Gameplay :
+## Gameplay
+The gameplay of this game is just like a regular pong game, you van move up and down, and aim at the ball. The difference is this game using Health bar instead of score, so when the bar hit zero, then the player lose.
 
 <br>
 
@@ -54,10 +54,6 @@ The following controls are bound in-game, for gameplay and testing.
 ## Scripts and Features
 
 <br>
-
-
-You are **required to download several assets from the Unity Asset Store** to properly operate this game. All assets should be placed in the **3rdParty** folder. The assets that need to be downloaded are as follows:
-**Download Here:**
 
 If you encounter problem, feel free to contact me
 Thank you
