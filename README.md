@@ -1,8 +1,3 @@
-<p align="center">
-  <img width="100%" alt="" src="">
-  </br>
-</p>
-
 ## About Project
 This project was purposed to complete Game Programming Assignment, and it has not continued since.
 <br>
