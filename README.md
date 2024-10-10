@@ -1,3 +1,5 @@
+
+![pong-ezgif com-optimize](https://github.com/user-attachments/assets/43632b25-c1f0-420c-a540-c50cba4eb9eb)
 ## About Project
 This project was purposed to complete Game Programming Assignment, and it has not continued since.
 <br>
