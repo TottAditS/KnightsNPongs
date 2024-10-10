@@ -17,7 +17,7 @@ Knights N Pong is a Unity Engine minigame where two knights face off in a fun tw
 <br>
 
 ## Download Game
-<p width="500px" align="center"><a href="https://tottadits.itch.io/knightnpong">KnightNPong Itch Page</p>
+<p width="500px" align="left"><a href="https://tottadits.itch.io/knightnpong">KnightNPong Itch Page</p>
 <br>
 
 ## Gameplay
