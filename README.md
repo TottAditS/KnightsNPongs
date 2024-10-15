@@ -5,7 +5,7 @@ This project was purposed to complete Game Programming Assignment, and it has no
 <br>
 
 ## Project Info
-Knights N Pong is a Unity Engine minigame where two knights face off in a fun twist on the classic Pong concept, passing a ball between them in a medieval-themed setting. As a solo programmer and designer, I developed this game in 10 days to explore basic game mechanics and lay the foundation for more complex projects in the future.
+<p align="justify">Knights N Pong is a Unity Engine minigame where two knights face off in a fun twist on the classic Pong concept, passing a ball between them in a medieval-themed setting. As a solo programmer and designer, I developed this game in 10 days to explore basic game mechanics and lay the foundation for more complex projects in the future.</p>
 <br>
 
 ## Meet Me
@@ -18,7 +18,7 @@ Knights N Pong is a Unity Engine minigame where two knights face off in a fun tw
 <br>
 
 ## Gameplay
-The gameplay of this game is just like a regular pong game, you van move up and down, and aim at the ball. The difference is this game using Health bar instead of score, so when the bar hit zero, then the player lose.
+<p align="justify">The gameplay of this game is just like a regular pong game, you van move up and down, and aim at the ball. The difference is this game using Health bar instead of score, so when the bar hit zero, then the player lose.</p>
 
 <br>
 
