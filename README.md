@@ -37,7 +37,5 @@ The following controls are bound in-game, for gameplay and testing.
 | W,S           | Standard movement P1|
 | Up,Down           | Standard movement P2|
 
-## Scripts and Features
-
 If you encounter problem, feel free to contact me
 Thank you
